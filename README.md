@@ -1,3 +1,4 @@
-Change Log
-  Week 2
+#Change Log
+
+  Week 2 
   
