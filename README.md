@@ -1,6 +1,7 @@
 # Change Log
 
-  Week 2 
+  - added sections
+  - tutorials 
   
 # TODO
 
