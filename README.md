@@ -1,9 +1,7 @@
-# Change Log
+Feitong Liu
 
-  - added sections
-  - tutorials 
-  
-# TODO
+feitong@udel.edu
 
-  Week 2
+CISC275-011 020L
+
   
