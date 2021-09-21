@@ -32,6 +32,7 @@ I created my first website based on the lecture and tutorials using VSCode [my f
 ## Week3
 
  - I reinitialized my website. I plan to build a website about food and recipes.
+ - Here is my new [website](https://lfeitong.github.io/Website-cisc275/).
  - I added a bunch of new files, links, and pictures. By using html and css I leanred so far, I redesigned my the website.
  - I wrote html and javascript in VSCode anf push them on my github repositories. 
  - I made a new github repository of react app I created [here](https://github.com/LFeitong/feitong-app).
