@@ -47,7 +47,7 @@ I created my first website based on the lecture and tutorials using VSCode [my f
  - I set up the workflow of my app.
  - I got my first react app page works as I linked in portfolio of this week.
  
- ## Week3
+ ## Week4
  - I committed and pushed the new version of my first app. I didn't initialize my website at all last week, but this week the app has added recipes, buttons and layout. 
  - I used JavaScript and TypeScript developing two react apps. One of them is based on Dr. Bart's YouTube video.
  - I pushed the latest version of my first app [here](https://github.com/LFeitong/feitong-app).
@@ -73,7 +73,7 @@ I created my first website based on the lecture and tutorials using VSCode [my f
 - For my app, I just created a welcome page and haven't fully understand how to make it have some functions. So I'm going to add buttons and content, hopefully the page changes when the user clicks the button or inserts some text. Based on this, rewatch Dr. Bart's lecture record would be helpful, and I'll look for other related resources if needed.
 
 
-## Week3
+## Week4
 - I'd like to explore how to implement a better user interface, because my interface is still a bit cluttered now. (This is an [instruction](https://www.usability.gov/what-and-why/user-interface-design.html) on it)
 - I only learned test in class this week and didn't have time to add the test part in React.
 - So next week I will definitely try to add test to my app and improve coverage. ([Jest test](https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week5-unit-testing (Links to an external site.)[Jest&React](https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/))
