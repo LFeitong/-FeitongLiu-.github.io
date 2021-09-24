@@ -20,6 +20,14 @@ I created my first website based on the lecture and tutorials using VSCode [my f
 - I leanred how to deploy my react app to github pages (according to [this](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)),and how to set up the workflow on github actions(according to [this](https://dev.to/dyarleniber/setting-up-a-ci-cd-workflow-on-github-actions-for-a-react-app-with-github-pages-and-codecov-4hnp)).
 
 
+## Week4
+- I watched the YouTube by Dr.Bart, and I created a simple app based on the content in the video [here](http://localhost:3000/feitong-app)
+- I haven't had time to enrich this app yet, but I'd like to make it serve different recipes just like the website I created earlier.
+- I've never leanred TypeScript or JavaScript before, so I spend several days this week read related materials and tutorials. Now I can use them in my React app development.( These are the websites that have been very helpful to me: [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html),[JavaScript](https://www.codecademy.com/learn/introduction-to-javascript))
+- I spent most of my time creating a shopping cart site based on this [tutorial](https://www.youtube.com/watch?v=sfmL6bGbiN8).
+- I went through the bootstrap [tutorial](https://www.w3schools.com/bootstrap5/), it helped me to set up the layout, colors, buttons on my react app. I set up the bootstrap on react by [this](https://react-bootstrap.github.io/).
+- This week I focused on react development, and these are the sites where I learned how to use React. ([React Tutorial for Beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0),[React JS Course for Beginners](https://www.youtube.com/watch?v=nTeuhbP7wdE))
+
 
 # Change Log
 
@@ -39,7 +47,13 @@ I created my first website based on the lecture and tutorials using VSCode [my f
  - I set up the workflow of my app.
  - I got my first react app page works as I linked in portfolio of this week.
  
- 
+ ## Week3
+ - I committed and pushed the new version of my first app. I didn't initialize my website at all last week, but this week the app has added recipes, buttons and layout. 
+ - I used JavaScript and TypeScript developing two react apps. One of them is based on Dr. Bart's YouTube video.
+ - I pushed the latest version of my first app [here](https://github.com/LFeitong/feitong-app).
+ - I wrote a new react app of shopping cart, and set up style for it.
+ - I made a new github repository of my new react [app](https://github.com/LFeitong/shopping-cart)
+
  
 
 # TODO 
@@ -59,4 +73,10 @@ I created my first website based on the lecture and tutorials using VSCode [my f
 - For my app, I just created a welcome page and haven't fully understand how to make it have some functions. So I'm going to add buttons and content, hopefully the page changes when the user clicks the button or inserts some text. Based on this, rewatch Dr. Bart's lecture record would be helpful, and I'll look for other related resources if needed.
 
 
+## Week3
+- I'd like to explore how to implement a better user interface, because my interface is still a bit cluttered now. (This is an [instruction](https://www.usability.gov/what-and-why/user-interface-design.html) on it)
+- I only learned test in class this week and didn't have time to add the test part in React.
+- So next week I will definitely try to add test to my app and improve coverage. ([Jest test](https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week5-unit-testing (Links to an external site.)[Jest&React](https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/))
+- My app seems only work in local host, so I think I didn't set up the workflow correctly. I'm going to check it out and seek help from instructor or ta if it still doesn't work out.
+- I'm going to check more tutorials on JavaScript and TypeScript, since I'm still confused sometimes. (I found some Youtube videos that might help: [JavaScript Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c),[JavaScript](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts),[TypeScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM))
 
