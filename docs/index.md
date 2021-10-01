@@ -4,6 +4,12 @@ Name: Feitong Liu
 
 Email: feitong@udel.edu
 
+[Food Lover](https://lfeitong.github.io/Website-cisc275/) - a website on foods and recipes
+
+[Shopping Cart](https://lfeitong.github.io/shopping-cart/) - an application to add ideal items to your shopping cart
+
+
+
 # Portfolio
 
 ## Week2 
@@ -27,6 +33,15 @@ I created my first website based on the lecture and tutorials using VSCode [my f
 - I spent most of my time creating a shopping cart site based on this [tutorial](https://www.youtube.com/watch?v=sfmL6bGbiN8).
 - I went through the bootstrap [tutorial](https://www.w3schools.com/bootstrap5/), it helped me to set up the layout, colors, buttons on my react app. I set up the bootstrap on react by [this](https://react-bootstrap.github.io/).
 - This week I focused on react development, and these are the sites where I learned how to use React. ([React Tutorial for Beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0),[React JS Course for Beginners](https://www.youtube.com/watch?v=nTeuhbP7wdE))
+
+## Week5
+- I was having trouble posting my React app on public website after pushing on github. I talked to Dr.Bart and my TA Lauren about my deploy problem, and watched the video by josh. Finally, the problem was solved and my app was successfully deployed. The deploy code are from [here](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f).
+- I spent a lot of time refining my website this week. My web is about food and recipes, and my CSS code mainly refers to this [site](https://www.w3schools.com/css/default.asp), about images, format, and fonts. I found the site very useful, mainly because I could change the source code in the try  me and see if the output is what I wanted. So I don't mess with my original code. 
+- I also use this [site](https://developer.mozilla.org/zh-CN/docs/Web/CSS/background-image) when I have problems with images.
+- I also completed my react app this week, by adding style TypeScript files on each sections. I also fixed some bugs such as overlapping images and failure to add items to the shopping cart.
+- In order to better use JavaScript and TypeScript in the app, I watched the videos saved in the list last week.([JavaScript Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c),[JavaScript](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts),[TypeScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM))
+- In addition, I added the test part in my app, which I learned from the lectures and online resources. I followed this [instruction](https://create-react-app.dev/docs/running-tests/) on setiing and debugging testI learned [unit testing with Jest](https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week5-unit-testing), [Testing React App](https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/), [Video on testing in React](https://www.youtube.com/watch?v=U_Q7ss7wvoo).
+- It's incredible that in the past few weeks I've mostly learned the basic use of HTML, CSS, JS, TS by myself and built my app and website. I found it important to learn how to Google, and now when I have a problem in coding I can quickly find helpful resource through Google and know which part I can use for reference.
 
 
 # Change Log
@@ -53,6 +68,12 @@ I created my first website based on the lecture and tutorials using VSCode [my f
  - I pushed the latest version of my first app [here](https://github.com/LFeitong/feitong-app).
  - I wrote a new react app of shopping cart, and set up style for it.
  - I made a new github repository of my new react [app](https://github.com/LFeitong/shopping-cart)
+
+## Week5
+- I finished the interface of my [website](https://lfeitong.github.io/Website-cisc275/)([github repository](https://github.com/LFeitong/Website-cisc275).
+- For the website, I added sub pages on different kinds of recipes and kitchen guides. I added rows and columns for the layout, and more contents on differnt parts on the interface. I rearranged all the items and it looks better and clearer. I added more recipes and pointed to external links.
+- I completed my shopping-cart react [app](https://lfeitong.github.io/shopping-cart/), and deploy it successfully([github repository](https://github.com/LFeitong/shopping-cart).
+- On react app, I solved several bugs and added style.ts for each part. So now the page doesn't look cluttered, and users can add what they want to their shopping cart.
 
  
 
