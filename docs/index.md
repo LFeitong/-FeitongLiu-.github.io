@@ -62,7 +62,7 @@ I created my first website based on the lecture and tutorials using VSCode [my f
  - I set up the workflow of my app.
  - I got my first react app page works as I linked in portfolio of this week.
  
- ## Week4
+## Week4
  - I committed and pushed the new version of my first app. I didn't initialize my website at all last week, but this week the app has added recipes, buttons and layout. 
  - I used JavaScript and TypeScript developing two react apps. One of them is based on Dr. Bart's YouTube video.
  - I pushed the latest version of my first app [here](https://github.com/LFeitong/feitong-app).
